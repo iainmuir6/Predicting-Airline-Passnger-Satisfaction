@@ -22,8 +22,12 @@ Our best-performing model on our training dataset was a 4-layer Neural Network m
 
 ### Initial Model Results
 
-![Pre-Tuning Results](!/input/pre_results.png)
+<p align="center">
+  <img src="https://github.com/iainmuir6/Predicting-Airline-Passnger-Satisfaction/blob/main/input/pre_results.png" alt="mnbc" class="center" width="750">
+</p>
 
 ### Post-Hyperparameter Tuning Model Results
 
-![Post-Tuning Results](!/input/post_results.png)
+<p align="center">
+  <img src="https://github.com/iainmuir6/Predicting-Airline-Passnger-Satisfaction/blob/main/input/post_results.png" alt="mnbc" class="center" width="750">
+</p>
